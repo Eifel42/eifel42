@@ -29,8 +29,9 @@ I'm a certified [iSAQB Software Architecture Advance Level](https://www.isaqb.or
  -- The Hitchhiker's Guide to the Galaxy, Douglas Adams --
 </p>
 
+<p align="right">
 [Imprint/Impressum](https://zils-kaisersesch.de/impressum/)
-
+</p>
 
 
 
