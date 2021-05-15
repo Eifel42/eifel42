@@ -4,11 +4,15 @@ Many projects are labeled as confidential or subject to legal aspects such as co
 
 ## Blockchain, DLT-Systems
 
+Solidity Ethereum DApps examples:
+- https://github.com/Eifel42/starNotary
+- https://github.com/Eifel42/organicOilSupply
+- https://github.com/Eifel42/flightSurety
+- https://github.com/Eifel42/realEstateMarketplace
 
-- Basic ledger implemenation in JavaScript:
-
-* https://github.com/Eifel42/simpleChain
-* https://github.com/Eifel42/starRegistration
+Basic ledger implemenation in JavaScript:
+- https://github.com/Eifel42/simpleChain
+- https://github.com/Eifel42/starRegistration
 
 ## AI Projects
 
