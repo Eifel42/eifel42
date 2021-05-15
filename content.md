@@ -4,6 +4,13 @@ Many projects are labeled as confidential or subject to legal aspects such as co
 
 ## 💸 Blockchain, DLT-Systems
 
+### Basic Projects
+
+Repository | Description
+------------ | -------------
+[SimpleChain](https://github.com/Eifel42/simpleChain) | Simple Chain is a basic implementation of a ledger in JavaScript.
+[StarRegistration](https://github.com/Eifel42/starRegistration) |Star Registration is a Javascript Blockchain solution. The project uses a simple ledger written in Javascript. 
+
 ## 🤖 AI Projects
 
 ## 🔬 Microservices
