@@ -1,7 +1,15 @@
 # Hi there 👋 Thanks for stopping by!
 
-## 🚵‍♂️ About Me
+## About Me
 I'm a Software Architect and Software Engineer with a passion for blockchain, machine learning, and software quality.
+
+### 🌱  Fields
+
+### 👨‍🎓 Background
+
+## 👷 
+
+## 🤔
 
 
 ## :coffee: Happy to connect! :smile: : 
