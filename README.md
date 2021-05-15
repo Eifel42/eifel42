@@ -26,7 +26,7 @@
 
 - A collection of some projects from this Github repository is [here](content.md).
 
-## :coffee: Happy to connect! :smile: : 
+## :coffee: Happy to connect! :smile: 
   - https://www.linkedin.com/in/stefanzils/
   - https://twitter.com/bastesteff
   - https://zils-kaisersesch.de
