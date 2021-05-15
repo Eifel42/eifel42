@@ -11,6 +11,8 @@ I'm a Software Architect and Software Engineer with a passion for blockchain, ma
 
 ### 👨‍🎓 Education
 
+I'm a certified [iSAQB Software Architecture Advance Level](https://www.isaqb.org/de/zertifizierungen/zertifizierungen-uebersicht/cpsa-advanced-level/). I hold certifications and Nanodegrees in Blockchain, Cloud Computing, Machine Learning, and Finance. In my [LinkedIn profile](https://www.linkedin.com/in/stefanzils/), you find a list of all my qualifications.
+
 ## 👷 
 
 ## 🚵‍♂️
