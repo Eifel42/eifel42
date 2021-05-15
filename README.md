@@ -1,5 +1,11 @@
 # Hi there 👋 Thanks for stopping by!
 
+### :coffee: Happy to connect!: 
+  - https://www.linkedin.com/in/stefanzils/
+  - https://twitter.com/bastesteff
+  - https://zils-kaisersesch.de
+  - https://www.inoatec.de
+
 <p align="center">
  <i>42 - the answer to life the universe and everything</i><br>
  -- The Hitchhiker's Guide to the Galaxy, Douglas Adams --
