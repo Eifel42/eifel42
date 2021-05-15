@@ -5,7 +5,7 @@ I'm a Software Architect and Software Engineer with a passion for blockchain, ma
 
 ### 🌱 Fields
 
-- Actually, I'm working in many fields. Software Architecture is for additional qualification. In my opinion, if a software architect loses the feeling for programming, databases, and DevOps topics couldn't plan software systems in the long run. Modern software systems couldn't design from the Ivory Tower.
+- Actually, I'm working in many fields. Software Architecture is for additional qualification. In my opinion, if a software architect loses the feeling for programming, databases, and DevOps topics couldn't plan software systems in the long run. Modern software systems could not design from the Ivory Tower.
 
 - 
 
