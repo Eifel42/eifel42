@@ -4,7 +4,9 @@ Many projects are labeled as confidential or subject to legal aspects such as co
 
 ## 💸 Blockchain, DLT-Systems
 
-### Basic Projects
+### - Basic Projects
+
+These projects are the implementations of a blockchain ledger in JavaScript.
 
 Repository | Description
 ------------ | -------------
