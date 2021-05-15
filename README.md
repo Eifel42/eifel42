@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋 Thanks for stopping by!
+
+| *42 - the answer to life the universe and everything -- The Hitchhiker's Guide to the Galaxy, Douglas Adams* |
+
+
+
 
 <!--
 **Eifel42/eifel42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
