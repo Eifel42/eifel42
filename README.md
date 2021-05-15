@@ -19,7 +19,7 @@
 - Agile methods and Extrem programming brought many new aspects to modern software development. In a fast-moving business, it's essential to think about this aspect. But not every company needs an agile transformation. ([Blog Article: Burnt, can a star chef act agile?](https://zils-kaisersesch.de/2021/01/30/burnt-can-a-star-chef-act-agile/)).
 
 ## 🚵‍♂️ Software is not only about Computers! -- [Peopleware](https://en.wikipedia.org/wiki/Peopleware) --
-
+- I believe in teams, aspects of the agile manifesto, the possibilities of modern technologies that can help many urgent problems worldwide.  Also, on a good heart, thank you to [@Laura](https://github.com/ltruncel).
 
 ## :coffee: Happy to connect! :smile: : 
   - https://www.linkedin.com/in/stefanzils/
