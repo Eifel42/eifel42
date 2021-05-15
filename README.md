@@ -1,7 +1,7 @@
 # Hi there 👋 Thanks for stopping by!
 
-## 🚵‍♂️ About Me
-- I'm a Software Architect and Software Engineer with a passion for blockchain, machine learning, and software quality.
+## 🚵‍♂️ I'm a Software Architect and Software Engineer with a passion for blockchain, machine learning, and software quality.
+
 
 ## :coffee: Happy to connect! :smile: : 
   - https://www.linkedin.com/in/stefanzils/
