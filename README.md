@@ -15,7 +15,7 @@
 
 ## 👷 Currently Working
 - Since my master thesis, I work on the business aspect of distributed ledger systems (blockchains). For me is also important to understand and make business values with such systems. Cryptocurrencies can be much more than speculative assets. [Blog Article: A trusted Database for Systems Boundaries](https://zils-kaisersesch.de/2020/01/15/a-trusted-database-for-systems-boundaries/).
-- Software Quality is the knowledge about technical debt—Test-driven Development and also well document software. At Inoatec, we use [arc42](https://arc42.org/) as a document standard.
+- Software Quality is the knowledge about technical debt—Test-driven Development and also well document software. At Inoatec, we use [arc42](https://arc42.org/) as a document standard. I am impressed with the possibilities from tools like [plantuml](https://plantuml.com/en/).
 - Agile methods and Extrem programming brought many new aspects to modern software development. In a fast-moving business, it's essential to think about this aspect. But not every company needs an agile transformation. ([Blog Article: Burnt, can a star chef act agile?](https://zils-kaisersesch.de/2021/01/30/burnt-can-a-star-chef-act-agile/)).
 
 ## 🚵‍♂️ Software is not about Computers!
