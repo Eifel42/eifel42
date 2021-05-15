@@ -1,6 +1,6 @@
 # Hi there 👋 Thanks for stopping by!
 
-### :coffee: Happy to connect!: 
+# :coffee: Happy to connect! :smile: : 
   - https://www.linkedin.com/in/stefanzils/
   - https://twitter.com/bastesteff
   - https://zils-kaisersesch.de
