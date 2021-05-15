@@ -1,5 +1,8 @@
 # Hi there 👋 Thanks for stopping by!
 
+
+
+
 ## :coffee: Happy to connect! :smile: : 
   - https://www.linkedin.com/in/stefanzils/
   - https://twitter.com/bastesteff
@@ -7,7 +10,7 @@
   - https://www.inoatec.de
 
 <p align="center">
- <i>42 - the answer to life the universe and everything</i><br>
+ <i>42 - the answer to life the universe and everything, Don't Panic</i><br>
  -- The Hitchhiker's Guide to the Galaxy, Douglas Adams --
 </p>
 
