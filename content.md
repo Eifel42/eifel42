@@ -4,9 +4,8 @@ Many projects are labeled as confidential or subject to legal aspects such as co
 
 ## Blockchain, DLT-Systems
 
-### Basic Projects
 
-These projects are the implementations of a blockchain ledger in JavaScript.
+- Basic ledger implemenation in JavaScript:
 
 * https://github.com/Eifel42/simpleChain
 * https://github.com/Eifel42/starRegistration
