@@ -16,7 +16,10 @@ Basic ledger implemenation in JavaScript:
 - https://github.com/Eifel42/starRegistration
 
 ## AI Projects
+- https://github.com/Eifel42/intel-nc2-gaze-control
 
 ## Microservices
+- https://github.com/Eifel42/microservices-basics
 
 ## DevOps
+- https://github.com/Eifel42/pihole-docker
