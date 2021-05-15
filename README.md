@@ -13,7 +13,7 @@
 
 - I'm a certified [iSAQB Software Architecture Advance Level](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-advanced-level/). I hold certifications and Nanodegrees in Blockchain, Cloud Computing, Machine Learning, and Finance. In my [LinkedIn profile](https://www.linkedin.com/in/stefanzils/), you find a list of all my qualifications.
 
-## 👷 
+## 👷 Currently Working
 
 ## 🚵‍♂️
 
