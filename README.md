@@ -14,7 +14,7 @@
 - I'm a certified [iSAQB Software Architecture Advance Level](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-advanced-level/). I hold certifications and Nanodegrees in Blockchain, Cloud Computing, Machine Learning, and Finance. In my [LinkedIn profile](https://www.linkedin.com/in/stefanzils/), you find a list of all my qualifications.
 
 ## 👷 Currently Working
-- Since my master thesis, I work on the business aspect of distributed ledger systems blockchain. For me is also important to understand and make business values with such systems. Cryptocurrencies can be much more than speculative assets. [Blog Article A trusted Database for Systems Boundaries](https://zils-kaisersesch.de/2020/01/15/a-trusted-database-for-systems-boundaries/).
+- Since my master thesis, I work on the business aspect of distributed ledger systems blockchain. For me is also important to understand and make business values with such systems. Cryptocurrencies can be much more than speculative assets. [Blog Article: A trusted Database for Systems Boundaries](https://zils-kaisersesch.de/2020/01/15/a-trusted-database-for-systems-boundaries/).
 -
 -
 
