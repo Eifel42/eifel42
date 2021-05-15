@@ -6,6 +6,7 @@ Many projects are labeled as confidential or subject to legal aspects such as co
 
 Solidity Ethereum DApps examples:
 - https://github.com/Eifel42/starNotary
+- https://github.com/Eifel42/organicOil
 - https://github.com/Eifel42/organicOilSupply
 - https://github.com/Eifel42/flightSurety
 - https://github.com/Eifel42/realEstateMarketplace
