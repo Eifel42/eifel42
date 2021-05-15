@@ -1,6 +1,12 @@
 # Hi there 👋 Thanks for stopping by!
 
-| *42 - the answer to life the universe and everything -- The Hitchhiker's Guide to the Galaxy, Douglas Adams* |
+<p align="center">
+ <i>42 - the answer to life the universe and everything</i><br>
+ -- The Hitchhiker's Guide to the Galaxy, Douglas Adams
+</p>
+
+
+
 
 
 
