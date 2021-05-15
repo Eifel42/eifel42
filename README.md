@@ -15,7 +15,7 @@
 
 ## 👷 Currently Working
 - Since my master thesis, I work on the business aspect of distributed ledger systems blockchain. For me is also important to understand and make business values with such systems. Cryptocurrencies can be much more than speculative assets. [Blog Article: A trusted Database for Systems Boundaries](https://zils-kaisersesch.de/2020/01/15/a-trusted-database-for-systems-boundaries/).
--
+- Software Quality is the knowledge about technical debt—Test-driven Development and also well document software. At Inoatec, we use [arc42](https://arc42.org/) as a document standard.
 -
 
 ## 🚵‍♂️
@@ -35,20 +35,3 @@
 <p align="center">
   <a href="https://zils-kaisersesch.de/impressum/">Imprint/Impressum</a>
 </p>
-
-
-
-<!--
-**Eifel42/eifel42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
