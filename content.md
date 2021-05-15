@@ -1,9 +1,11 @@
-# Table of Content
+# 📖 Table of Content
 
-## Blockchain, DLT-Systems
+Many projects are labeled as confidential or subject to legal aspects such as copyright protection or business secrets. This outline gives an overview of some ideas, concepts, and working methodologies.
 
-## AI Projects
+## 💸 Blockchain, DLT-Systems
 
-## Microservices
+## 🤖 AI Projects
 
-## DevOps
+## 🔬 Microservices
+
+## 🖥️ DevOps
