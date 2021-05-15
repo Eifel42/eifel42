@@ -22,6 +22,10 @@
 - I believe in teams, aspects of the agile manifesto and the possibilities of modern technologies. Also, on a good heart, thank you to [@LauraT](https://github.com/ltruncel).
 - On the business side, I believe in continuous learning and agile enterprises. Founders like [Götz Werner](https://en.wikipedia.org/wiki/G%C3%B6tz_Werner) or the impressed and extraordinary [Margarete Steiff (Inventor of the Teddy Bear)](https://en.wikipedia.org/wiki/Margarete_Steiff) lived these values along before the agile manifesto.
 
+## 📚 GitHub Projects
+
+- A collection of some projects from this Github repository is [here](content.md).
+
 ## :coffee: Happy to connect! :smile: : 
   - https://www.linkedin.com/in/stefanzils/
   - https://twitter.com/bastesteff
