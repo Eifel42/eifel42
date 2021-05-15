@@ -20,7 +20,7 @@
 
 ## 🚵‍♂️ Software is not only about Computers! -- [Peopleware](https://en.wikipedia.org/wiki/Peopleware) --
 - I believe in teams, aspects of the agile manifesto, the possibilities of modern technologies. Also, on a good heart, thank you to [@LauraT](https://github.com/ltruncel).
-- On the business side, I believe in continuous learning, agile enterprises. Founders like [Götz Werner](https://en.wikipedia.org/wiki/G%C3%B6tz_Werner) or the impressed and extraordinary [Margarete Steiff (Inventor of the Teddy Bear)](https://en.wikipedia.org/wiki/Margarete_Steiff) lived this value along before the agile manifesto.
+- On the business side, I believe in continuous learning and agile enterprises. Founders like [Götz Werner](https://en.wikipedia.org/wiki/G%C3%B6tz_Werner) or the impressed and extraordinary [Margarete Steiff (Inventor of the Teddy Bear)](https://en.wikipedia.org/wiki/Margarete_Steiff) lived this value along before the agile manifesto.
 
 ## :coffee: Happy to connect! :smile: : 
   - https://www.linkedin.com/in/stefanzils/
