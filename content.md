@@ -21,5 +21,5 @@ Basic ledger implemenation in JavaScript:
 ## Microservices
 - https://github.com/Eifel42/microservices-basics
 
-## DevOps
+## DevOps / Internet Security
 - https://github.com/Eifel42/pihole-docker
