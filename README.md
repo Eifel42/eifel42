@@ -16,7 +16,7 @@
 ## 👷 Currently Working
 - Since my master thesis, I work on the business aspect of distributed ledger systems (blockchains). For me is also important to understand and make business values with such systems. Cryptocurrencies can be much more than speculative assets. [Blog Article: A trusted Database for Systems Boundaries](https://zils-kaisersesch.de/a-trusted-database-for-systems-boundaries/).
 - Software Quality is the knowledge about technical debt—Test-driven Development and also well document software systems. At Inoatec, we use [arc42](https://arc42.org/) as a document standard. I am impressed with the possibilities from tools like [plantuml](https://plantuml.com/en/).
-- Agile methods and Extrem programming brought many new aspects to modern software development. In a fast-moving business, it's essential to think about this aspect. But not every company needs an agile transformation. ([Blog Article: Burnt, can a star chef act agile?](https://zils-kaisersesch.de/2021/01/30/burnt-can-a-star-chef-act-agile/)).
+- Agile methods and Extrem programming brought many new aspects to modern software development. In a fast-moving business, it's essential to think about this aspect. But not every company needs an agile transformation. ([Blog Article: Burnt, can a star chef act agile?](https://github.com/Eifel42/Blog/blob/main/article/2021/burnt.md)).
 
 ## 🚵‍♂️ Software is not only about Computers! -- [Peopleware](https://en.wikipedia.org/wiki/Peopleware) --
 - I believe in teams, aspects of the agile manifesto and the possibilities of modern technologies. Also, on a good heart, thank you to [@LauraT](https://github.com/ltruncel).
