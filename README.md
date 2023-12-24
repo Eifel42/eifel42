@@ -1,13 +1,13 @@
 # Hi there 👋 Thanks for stopping by!
 
 ##  🔭  About Me
-- I'm a Software Architect and Software Engineer with a passion for blockchain, machine learning, databases and software quality.
+- I'm a Software Architect and Software Engineer with a passion for blockchain, machine learning, databases, and software quality.
 
 ### 🌱 Fields
 
-- Actually, I'm working in many fields. Software Architecture is, for me, an additional qualification. In my view, practical work is essential. If a software architect loses the feeling for programming and DevOps topics, the architect couldn't develop modern software systems in the long run. Modern software systems could not design from the Ivory Tower.
+- Actually, I'm working in many fields. Software Architecture is, for me, an additional qualification. Practical work is essential. If a software architect loses the desire to learn programming and DevOps topics, the architect can't develop modern software systems in the long run. Modern software systems could not be designed from the Ivory Tower.
 
-- My main topics are the planning of software systems, blockchain, and machine learning. Database and Cloud systems are also essential skills to plan and run modern software architectures.
+- My main topics are the planning of software systems, blockchain, and machine learning. Database and Cloud systems are essential skills for planning and running modern software architectures.
 
 ### 👨‍🎓 Education
 
@@ -37,5 +37,5 @@
 </p>
 
 <p align="center">
-  <a href="https://zils-kaisersesch.de/impressum/">Imprint/Impressum</a>
+  <a href="https://zils-kaisersesch.de/page/compliance/imprint/">Imprint/Impressum</a>
 </p>
