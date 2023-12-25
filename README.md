@@ -7,7 +7,7 @@
 
 - Actually, I'm working in many fields. Software Architecture is, for me, an additional qualification. Practical work is essential. If a software architect loses the desire to learn programming and DevOps topics, the architect can't develop modern software systems in the long run. Modern software systems could not be designed from the Ivory Tower.
 
-- My main topics are the planning of software systems, blockchain, and machine learning. Database and Cloud systems are essential skills for planning and running modern software architectures.
+- My main topics are the planning of software systems, blockchain, and machine learning. Database and Cloud systems are essential for planning and running modern software architectures.
 
 ### 👨‍🎓 Education
 
@@ -28,8 +28,7 @@
 
 ## ☕ Happy to connect! ✍️ 
   - https://www.linkedin.com/in/stefanzils/
-  - https://twitter.com/bastesteff
-  - https://zils-kaisersesch.de
+  - https://eifel42.dev
 
 <p align="center">
  <i>42 - the answer to life, the universe, and everything, Don't Panic</i><br>
