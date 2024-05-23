@@ -28,7 +28,6 @@
 
 ## ☕ Happy to connect! ✍️ 
   - https://www.linkedin.com/in/stefanzils/
-  - https://eifel42.github.io/zils-kaisersesch/
   - https://eifel42.dev
 
 <p align="center">
