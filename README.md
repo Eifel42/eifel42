@@ -36,6 +36,6 @@
 </p>
 
 <p align="center">
-  <a href="https://zils-kaisersesch.de/page/compliance/imprint/">Imprint/Impressum</a><br>
-  <a href="https://www.zils-kaisersesch.de/page/compliance/gdpr/#en">Privacy Policy/Datenschutzerklärung</a>
+  <a href="https://zils-kaisersesch.de/page/compliance/imprint/">Imprint / Impressum</a><br>
+  <a href="https://www.zils-kaisersesch.de/page/compliance/gdpr/#en">Privacy Policy / Datenschutzerklärung</a>
 </p>
